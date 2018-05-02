@@ -1,1 +1,1 @@
-#Hello World
+## I have always been a big advocate of Massive open online courses(MOOC). Over the years I have alwyas involved in MOOCs related  mostly but not limited to Computer Science. This page is a collection of my MOOC certifacates and some of the MOOC assignments that I found really cool. My sincere gratitude to all the MOOC platoforms specially to Coursera who have made learning so easy and enjoyable.
