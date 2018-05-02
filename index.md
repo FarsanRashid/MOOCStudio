@@ -29,4 +29,6 @@ I have always been a big advocate of Massive open online courses(MOOC). Over the
  * [Research study to answer Is gun ownership rate of republican supporters signifacantly diiferent than democrat supporters?](https://s3.amazonaws.com/coursera-uploads/peer-review/u3goXsk9EeWT3Aqsn0BGnQ/5cd6b9c82dd769bf46b8185b3a80bd09/stat_inf_project.html)
  * [Resarch study to answer If a movie win award in oscar or is created by oscar award winning director/actor/actress, is it tend to have higher ratings in movie review websites?](https://s3.amazonaws.com/coursera-uploads/peer-review/oSAFEslDEeWCSBJ1_yk7Tw/3715024402174e467bfcdb9b85b0f339/Linear_Regression.html)
  
- <div style="text-align:center"><img src ="./tintin.gif" /></div> 
+ <p align="center">
+  <img src="./tintin.gif" alt="Goodbye image"/>
+</p>
