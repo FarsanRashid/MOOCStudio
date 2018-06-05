@@ -19,6 +19,7 @@ I have always been a big advocate of Massive open online courses(MOOC). Over the
 * [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971246)
 * [Pre-Calculus](https://www.coursera.org/account/accomplishments/certificate/BELMYNP3AJ)
 * [Computer Science 101](https://verify.class.stanford.edu/SOA/b979466a2a3e4434858703b303a4fed8/)
+* [Big Data 101](https://courses.cognitiveclass.ai/certificates/b16cccdf9730473ea1d427be958d908b)
 
 ## Selected assignments
 
