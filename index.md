@@ -1,6 +1,7 @@
 I have always been a big advocate of Massive open online courses(MOOC). Over the years I have completed MOOCs related mostly but not limited to Computer Science. This page is a collection of my MOOC certificates and selected MOOC assignments. My sincere gratitude to all the MOOC platforms specially to Coursera who have made education available and enjoyable.
 
 ## Course Certificates
+* [Design Patterns](https://www.coursera.org/account/accomplishments/certificate/3UFW7UUC7SWX)
 * [Learn By Example: Hadoop, MapReduce for Big Data problems](https://www.udemy.com/certificate/UC-VEGP3VKU/)
 * [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/FVYKC58MA2FU)
 * [Algorithms: Design and Analysis,Part 1](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=975599)
