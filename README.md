@@ -1,1 +1,1 @@
-This repositiry is to deploy a static site through github gitpage. The site will contain certificates and interesting course assignments from my completed MOOCs.
+This repositiry is to deploy a static site through github pages. The site will contain certificates of online courses and interesting course assignments.
